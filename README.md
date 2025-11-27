@@ -16,15 +16,8 @@
 - **Medical Insurance Charges Prediction:** Predict insurance costs using ML models  
 - **Customer Churn Prediction:** Using Telco dataset, ML, and FastAPI deployment  
 - **Movie Recommendation System:** Python + Node.js + trained ML model  
-- **Deep Learning Math Solver:** OCR + math expression recognition + solution generation  
-
-### GitHub Stats
-<p align="center">
-  <a href="https://github.com/chhounoudom59">
-    <img src="https://github-readme-stats.vercel.app/api?username=chhounoudom59&show_icons=true&theme=radical" alt="Chhoun Oudom's GitHub Stats" />
-  </a>
-</p>
-
+- **Deep Learning Math Solver:** OCR + math expression recognition + solution generation
+- 
 ### Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/chhoun-oudom-028a7929b/)
 - 📧 chhounoudom59@example.com  
