@@ -17,7 +17,7 @@
 - **Customer Churn Prediction:** Using Telco dataset, ML, and FastAPI deployment  
 - **Movie Recommendation System:** Python + Node.js + trained ML model  
 - **Deep Learning Math Solver:** OCR + math expression recognition + solution generation
-- 
+  
 ### Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/chhoun-oudom-028a7929b/)
 - 📧 chhounoudom59@gmail.com  
