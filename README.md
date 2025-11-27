@@ -1,16 +1,31 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! I'm Chhoun Oudom</h2>
 
-<!--
-**chhounoudom59-crypto/chhounoudom59-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🎓 Year 3 Student, Major: Data Science & Engineering at **RUPP**  
+- 💻 Completed short courses at **Sunrise Institute – SunriseInstitute**  
+- 🌱 Learning & building projects in **Machine Learning, Deep Learning, Python, and Full-Stack Development**  
+- 📊 Passionate about data analysis, predictive modeling, and AI solutions  
 
-Here are some ideas to get you started:
+### Skills
+- **Programming Languages:** Python, SQL, JavaScript  
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras  
+- **Web Development:** Flask, Streamlit, React, Next.js  
+- **Tools & Technologies:** Git, GitHub, MySQL, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **Medical Insurance Charges Prediction:** Predict insurance costs using ML models  
+- **Customer Churn Prediction:** Using Telco dataset, ML, and FastAPI deployment  
+- **Movie Recommendation System:** Python + Node.js + trained ML model  
+- **Deep Learning Math Solver:** OCR + math expression recognition + solution generation  
+
+### GitHub Stats
+<p align="center">
+  <a href="https://github.com/chhounoudom59">
+    <img src="https://github-readme-stats.vercel.app/api?username=chhounoudom59&show_icons=true&theme=radical" alt="Chhoun Oudom's GitHub Stats" />
+  </a>
+</p>
+
+### Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/chhoun-oudom-028a7929b/)
+- 📧 chhounoudom59@example.com  
+
