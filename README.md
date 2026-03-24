@@ -3,7 +3,7 @@
 ### About Me
 - 🎓 Year 3 Student, Major: Data Science & Engineering at **RUPP**  
 - 💻 Completed short courses at **Sunrise Institute – SunriseInstitute**  
-- 🌱 Learning & building projects in **Machine Learning, Deep Learning, Python, and Full-Stack Development**  
+- 🌱 Learning & building projects in **Machine Learning, Deep Learning, Python, and Web Development**  
 - 📊 Passionate about data analysis, predictive modeling, and AI solutions  
 
 ### Skills
